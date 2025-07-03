@@ -1,1 +1,1 @@
-# Tableau-pdf
+# This dashboard showcases a comprehensive Tableau-based data analytics project, highlighting key visualizations, insights, and business intelligence derived from sales, profit, and customer data. The project includes interactive dashboards, maps, and charts to analyze trends, compare performance across states and sales channels, and identify growth opportunities.
